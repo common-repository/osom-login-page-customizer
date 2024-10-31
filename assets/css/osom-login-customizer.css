@@ -1,0 +1,36 @@
+body.login #login {
+    max-width: 500px;
+}
+
+body.login form#loginform, .login form { 
+    border-radius: 6px;
+    border: 2px solid #000;
+}
+
+body.login div#login form p.submit input#wp-submit {
+	border: none;
+	width: 100%;
+}
+
+body.login .login #login_error, .login .message, .login .success {
+    background: none;
+}
+
+body.login .login .button {
+    color: #000;
+    border: none;
+}
+
+.logo-osom {
+	float: right; 
+	margin-right: 40px;
+}
+
+.interim-login #login {
+    padding: 20px;
+    margin: 25px auto 20px;
+}
+
+.interim-login.login h1 a {
+    margin: 0 auto;
+}

@@ -1,0 +1,87 @@
+# Copyright (C) 2020 OsomPress
+# This file is distributed under the same license as the Osom Login Page Customizer plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Osom Login Page Customizer 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/osom-login-"
+"customizer\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2020-11-11T12:35:46+00:00\n"
+"PO-Revision-Date: 2020-11-15 14:52+0100\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Domain: osom-lc\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: es_ES\n"
+
+#. Plugin Name of the plugin
+msgid "Osom Login Page Customizer"
+msgstr "Osom Login Page Customizer"
+
+#. Plugin URI of the plugin
+msgid "https://osompress.com"
+msgstr "https://osompress.com"
+
+#. Description of the plugin
+msgid ""
+"Osom Login Page Customizer lets you to easily customize the layout of the "
+"WordPress login page."
+msgstr ""
+"Osom Login Page Customizer te permite personalizar fácilmente el diseño "
+"de la página de acceso de WordPress."
+
+#. Author of the plugin
+msgid "OsomPress"
+msgstr "OsomPress"
+
+#. Author URI of the plugin
+msgid "https://osompress.com/plugins/osom-login-page-customizer"
+msgstr "https://osompress.com/plugins/osom-login-page-customizer"
+
+#: inc/osom-admin.php:38 inc/osom-admin.php:39 inc/osom-admin.php:58
+msgid "Osom Login Customizer"
+msgstr "Osom Login Customizer"
+
+#: inc/osom-admin.php:83
+msgid "Display Remember option"
+msgstr "Mostrar la opción de Recuérdame"
+
+#: inc/osom-admin.php:96
+msgid "Display Lost Password option"
+msgstr "Mostrar la opción de contraseña perdida"
+
+#: inc/osom-admin.php:109
+msgid "Display Back to Blog link"
+msgstr "Mostrar el enlace de vuelta al blog"
+
+#: inc/osom-admin.php:122
+msgid "Background Color"
+msgstr "Color de fondo"
+
+#: inc/osom-admin.php:138
+msgid "Login Form Color"
+msgstr "Color del formulario de acceso"
+
+#: inc/osom-admin.php:154
+msgid "Login Form Border Color"
+msgstr "Color del borde del formulario de acceso"
+
+#: inc/osom-admin.php:170
+msgid "Login Button Color"
+msgstr "Color del botón de acceso"
+
+#: inc/osom-admin.php:186
+msgid "Login URL redirection"
+msgstr "URL de la redirección al acceder"
+
+#: inc/osom-admin.php:220
+msgid "The plugin allows you to customize the WordPress login page"
+msgstr "El plugin te permite personalizar la página de acceso de WordPress"
+
+#: inc/osom-admin.php:222
+msgid "On this page you can set the options for the login page."
+msgstr ""
+"En esta página puede configurar las opciones de la página de acceso."
